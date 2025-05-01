@@ -140,7 +140,7 @@ def inference(model=None):
     torch.cuda.empty_cache()
 
     # Destroy window
-    cv2.destroyAllWindows()
+    #cv2.destroyAllWindows()
 
 
 # Main function call
